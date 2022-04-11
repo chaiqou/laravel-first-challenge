@@ -8,6 +8,11 @@
     <title>Hello World</title>
 </head>
 <body>
-    <p>Hello World</p>
+    <div class="container">
+        <div class="robot-photo" />
+        <div class="hello">< <p class='blue'>Hello </p> <p class="red"> World</p> /></div>
+    </div>
+    
 </body>
 </html>
+
