@@ -4,30 +4,29 @@ body {
     box-sizing: border-box;
 }
 
-.container1 {
+.container {
     position: absolute;
     background: radial-gradient(50% 50% at 50% 50%, #514848 0%, #332e2e 100%);
     width: 1920px;
     height: 1080px;
     top: 0px;
     left: 0px;
+    overflow: hidden;
 }
 
-.robot-photo1 {
+.robot-photo {
     position: absolute;
-    background: url(robot.png) no-repeat;
-    background-repeat: no-repeat !important;
     width: 25vw;
     height: 47vh;
     left: 704px;
     top: 52px;
 }
 
-.hello1 {
+.hello-text {
     position: absolute;
     width: 819px;
     height: 143px;
-    left: -150px;
+    left: 570px;
     top: 580px;
 
     font-family: "Press Start 2P";
@@ -42,13 +41,13 @@ body {
     color: #eae2e2;
 }
 
-.red1 {
+.second-word {
     color: #99ed70;
     margin-left: 30px;
     margin-right: 30px;
 }
 
-.blue1 {
+.first-word {
     color: #a0c9e4;
     margin-left: 30px;
     margin-right: 30px;
