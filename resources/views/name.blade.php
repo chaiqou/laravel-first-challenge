@@ -18,4 +18,3 @@
 </body>
 </html>
 
-<!-- <div class="robot-photo1" /> -->
